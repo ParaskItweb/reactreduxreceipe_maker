@@ -1,0 +1,11 @@
+.result_div {
+	overflow-y: auto;
+	height: 500px;
+	width: 25%;
+	margin-top: 50px;
+	border: 2px solid orange;
+	padding: 50px;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+}

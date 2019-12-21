@@ -1,0 +1,18 @@
+.main_div {
+	padding: 20px;
+}
+.img_height {
+	width: 150px;
+}
+.img_div {
+	/* display: inline-block; */
+	margin-left: 150px;
+	float: left;
+}
+.search_div {
+	display: inline-block;
+	margin-left: 150px;
+}
+.search_input {
+	margin-right: 10px;
+}

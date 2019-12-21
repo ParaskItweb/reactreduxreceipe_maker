@@ -1,0 +1,15 @@
+.mg_bt_10 {
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.res_div {
+	text-align: center;
+	cursor: pointer;
+}
+.result_img_div,
+.result_img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	display: inline-block;
+}

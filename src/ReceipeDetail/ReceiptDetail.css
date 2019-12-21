@@ -1,0 +1,26 @@
+.result_details {
+	height: 500px;
+	width: 47%;
+	margin-top: 50px;
+	border: 2px solid orange;
+	padding: 20px;
+	margin-left: 10px;
+	float: left;
+	text-align: center;
+	overflow-y: auto;
+}
+.addButton {
+	float: right;
+}
+h5 {
+	margin: 0px;
+	color: #74bf24;
+}
+.block {
+	display: block;
+}
+.font-icon:before {
+	display: inline-block;
+	font-size: 35px;
+	color: red;
+}

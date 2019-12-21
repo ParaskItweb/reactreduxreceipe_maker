@@ -1,0 +1,12 @@
+.ingre {
+	font-size: 16px;
+	font-weight: 600;
+	width: 50%;
+	text-align: left;
+	margin: 0px;
+}
+.ingre_img {
+	border-style: outset;
+	height: 100px;
+	width: 100px;
+}

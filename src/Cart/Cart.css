@@ -1,0 +1,24 @@
+.cartItems {
+	padding: 10px;
+	border: red solid 2px;
+	margin-bottom: 20px;
+}
+.cart_div {
+	overflow-y: auto;
+	height: 500px;
+	width: 25%;
+	margin-top: 50px;
+	border: 2px solid orange;
+	padding: 20px;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+}
+.itemAmount {
+	text-align: right;
+	color: #57085d;
+	font-weight: 600;
+}
+.itemUnit {
+	font-size: 14px;
+}
